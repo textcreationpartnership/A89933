@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new anatomie, or character of a Christian, or Round-head. Expressing his description, excellencie, happiness, and innocencie. Wherein may appear how far this blind world is mistaken in their unjust censures of him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89933</idno>
+            <idno type="STC">Wing N536</idno>
+            <idno type="STC">Thomason E1182_4</idno>
+            <idno type="STC">ESTC R204932</idno>
+            <idno type="EEBO-CITATION">99864380</idno>
+            <idno type="PROQUEST">99864380</idno>
+            <idno type="VID">116608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116608)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1182[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new anatomie, or character of a Christian, or Round-head. Expressing his description, excellencie, happiness, and innocencie. Wherein may appear how far this blind world is mistaken in their unjust censures of him.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Imprimatur, John Downame.</edition>
+               </editionStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Leybourne and are to be sold at the Star, under Peters Church in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A new character of a Christian or Round-head.</note>
+                  <note>Annotation on Thomason copy: "Octo: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116608:1" rendition="simple:additions"/>
+            <p>A New ANATOMIE, OR Character of a <hi>Chriſtian,</hi> or <hi>Round-head.</hi>
+            </p>
+            <p>Expreſſing <hi>His Deſcription, Excellencie, Happineſs, and Innocencie.</hi>
+            </p>
+            <p>Wherein may appear how far this blind World is miſtaken in their unjuſt Cenſures of Him.</p>
+            <q>Virtus in arduis.</q>
+            <q>
+               <bibl>Proverbs 12.26.</bibl>
+               <p>The righteous is more excellent then his Neighbour.</p>
+            </q>
+            <q>
+               <bibl>Iude 10.</bibl>
+               <p>But theſe ſpeak evill of thoſe things which they know not, and in thoſe things which they know, like brute beaſts they defile themſelves.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>John Downame.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>Robert Leybourne</hi> and are to be ſold at the Star, under <hi>Peters</hi> Church in Corn-hill, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116608:2"/>
+            <pb n="1" facs="tcp:116608:2"/>
+            <head>A New character of a <hi>Chriſtian,</hi> or <hi>Round-head.</hi>
+            </head>
+            <p>HE is a creature new molded out of the frame and ſtock of the old <hi>Adam,</hi> into that of the new and ſecond; and is compounded of light and darkneſſe, which ſomtimes makes him to ſhine, and ſomtimes obſcureth him, as either of both are predo<g ref="char:EOLhyphen"/>minant in him. In the former part of his life after conuerſion, you ſhall have him all in raptures, new joys, and ſtrange expreſſions; being, as it were, in a new world: but after that in dumps and malancholie fits, now and then like a ſtorme-beaten-man, complaining of croſſe windes, ſtormes and tempeſts: A creature who at his entrance into Chriſtianity finding ſuch changes, and various entertain<g ref="char:EOLhyphen"/>ment, looks not for his portion in this life, and therefore expects no great matters in the houſe of bondage he now labours in: He is not much troubled for his preſent condition, becauſe he is heire of all things, and what he
+<pb n="2" facs="tcp:116608:3"/>wants in poſſeſſion, he is aſſured of in rever<g ref="char:EOLhyphen"/>ſion, knowing that his Father will ſee him furniſhed in the fitteſt ſeaſon; and therefore in his wants he fues the promiſes, Gods bonds, yet leaves to Gods pleaſure when to make them good, &amp; cares not though others are lifted up upon dunghils to overlook him. Though he be in ſhew miſerable, yet he en<g ref="char:EOLhyphen"/>vies not the preſent felicity of any, who have but a ſun-ſhine day towards their execution: He dares not adventure upon the leſt of evils for attaining of the greateſt good; of two e<g ref="char:EOLhyphen"/>vils he always chooſeth the leaſt, though hee acknowledges that there is no evill of ſin to be choſen at any time, and therfore uſes this world and all things therein, as though hee uſed them not. He can caſt his bread upon the waters, and yet after many dayes, expect increaſe from thence; in all things he ſympa<g ref="char:EOLhyphen"/>thiſes with the ſufferings of others, and help<g ref="char:EOLhyphen"/>ing them in their miſeries what he may.</p>
+            <p>In all his actions the Word he makes his Rule in all things, and dares not without a warrant from thence undertake any matters of conſequence; the rules and precepts wher<g ref="char:EOLhyphen"/>of being multifarious, therefore his readier
+<pb n="3" facs="tcp:116608:3"/>practice hath ſummed up into one, to doe to others, as he would be done to by of them: and becauſe at the giving of the Law all the Mountain was railed round, he therefore puts this rule about all his words, ways and acti<g ref="char:EOLhyphen"/>ons, <hi>To abſtain from all appearance of evill:</hi> Chriſt he makes his chiefeſt joyes, his ſins his greateſt ſorrow, next unto which an hy<g ref="char:EOLhyphen"/>pocrite vexeth him moſt, becauſe he under<g ref="char:EOLhyphen"/>takes to act his part, but yet ſo bunglingly, that he always ſhames himſelfe in the end: heaven he priſes above all things, and ſo lit<g ref="char:EOLhyphen"/>tle values the earth, as he thinks all this world not worthy of a ſigh: He out of ſin<g ref="char:EOLhyphen"/>gularity affects not preciſeneſſe, but that his warie walking is ſtill atended with that a<g ref="char:EOLhyphen"/>ſperſion, he is temperate in all things, being to try great maſteries over himſelfe and o<g ref="char:EOLhyphen"/>thers, not caring for the jollities and rejoyce<g ref="char:EOLhyphen"/>ings of others, leſt too much of that temper ſhould enforce that he had received his con<g ref="char:EOLhyphen"/>ſolation.</p>
+            <p>He knows that he walks in the midſt of dangers, and therefore he walkes ſome turns every day in heaven and hell, the one to cheere him in his journey, the other to afflict
+<pb n="4" facs="tcp:116608:4"/>him from ſinning. He eſpies &amp; ſees the ſnares which are rapt up in all the creatures to intrap him, and therefore as one treading amongſt ſnares, he walkes the more warily and cir<g ref="char:EOLhyphen"/>cumſpectly in all things, and can admire high hills, but bide within the plains: Yea, in all his journies he by faith ſees all this world on fire, as holy <hi>Jerome,</hi> though he always heard the laſt Trumpet ſounding in his eares, <hi>Ariſe ye dead, and come to judgement,</hi> and therefore ſutes all his actions, affections, and meditati<g ref="char:EOLhyphen"/>ons, according unto that matchleſſe admira<g ref="char:EOLhyphen"/>tion, He throughly hates all ſin, willingly hugs and harbours none, and mourns moſt that he cannot leave all. In his deviations when he ſins, he goes not purpoſely aſtray, but onely unwares ſlips and miſſes his way, and rather is enforced then led willingly out of the good way, when being out he is reſt<g ref="char:EOLhyphen"/>leſſe, untill he come in his way again, whoſe falls and failings, are not fallings away; rather diſeaſes and wants in the feare of God, then want thereof, being the remembrancers of his frailties; helps unto his abaſement, ſubject of his humiliation, mater of his mortification, and wings unto his vivification, to make him flouriſh in ſelfe-deniall.</p>
+            <p>
+               <pb n="5" facs="tcp:116608:4"/>
+All Superiours and Magiſtrates he obeyes and reverences, not onely out of duty, but alſo for conſcience ſake, and that not onely unto the good, but alſo unto the bad, unleſſe it be when they command things unlawfull, in which caſe onely he hath learned to refuſe obedience and ſuffer, rather chooſing with Saint <hi>Paul</hi> to obey God than man: Hee refu<g ref="char:EOLhyphen"/>ſeth no good inſtructions comming from <hi>Moſes</hi> chair, but willingly receiveth all which is good, whoſoever the meſſenger be, and for matter of ceremonies, he doth not refuſe the ſhadow for the ſubſtance, the kirnell for the ſhell. Saint <hi>Pauls</hi> Biſhop he honours with double honour, but for a Lord Biſhop, he pro<g ref="char:EOLhyphen"/>feſſeth not to underſtand that myſtery which our bleſſed Saviour rejected: He can heare the word preached in ſeaſon and out of ſea<g ref="char:EOLhyphen"/>ſon, in Churches &amp; out of Churches, though he prefer the hearing thereof in Churches as the more decent and of better report then the other.</p>
+            <p>He thinks better of all others then of him<g ref="char:EOLhyphen"/>ſelfe, becauſe he knows moſt evill by him<g ref="char:EOLhyphen"/>ſelfe, and therefore dares not entertain or receive evill reports of others, becauſe hee
+<pb n="6" facs="tcp:116608:5"/>knows all men are lyars, but rather uſually under<g ref="char:EOLhyphen"/>foots them, leaſt they ſhould paſſe further, and when he ventures upon admonition or reproofe, it is upon urgent known cauſe, with much compaſſion, fear and obſervation of Time, Place, perſon, and manner, and with abundance of diſcretion and love, both fore<g ref="char:EOLhyphen"/>going it, and following after the ſame, nor doth he venture to judge raſhly after the hearing of the eare, nor after the ſeeing of the eye of any; being jealous of his miſtakes, that ſo in this kinde he may ſuite himſelfe unto a divine temper, like unto Chriſt, who refuſed to judge the woman without her accuſers, as knowing that conviction ſhould always goe hand in hand with accuſation, leaſt we wrong others.</p>
+            <p>He cares for nothing that God will not give him, accounting his will beſt whatſoe<g ref="char:EOLhyphen"/>ver, and ſeeing the end of all the promiſes hang in heaven whence they come, he ex<g ref="char:EOLhyphen"/>pects the full performance of them, what he wants here, in heaven; he naturally loves braverie, oſtentation, riches, gentleneſſe as well as worldlineſſe, but that he dares not venture Eternity of Glory, for their purchaſe
+<pb n="7" facs="tcp:116608:5"/>as ſome doe: He acknowledgeth the beau<g ref="char:EOLhyphen"/>ty of holineſſe to be the onely beauty, and therefore neither eſteems himſelfe, nor any other to be more happy or wiſe then they are accounted therewith. He knows no man now after the fleſh, neither regards he any meerly for fleſhly, but for ſpirituall excellencie, and therefore knowing by himſelfe partly what is in man, he dares commit himſelfe unto no man without triall of him firſt; his paſſions and affections, ſometimes would fly out like a tempeſt, but that he hath rules in readineſſe how to check and reſtrain them from being inordinate: and in performance of holy du<g ref="char:EOLhyphen"/>ties when perturbances interrupt thoſe Sacri<g ref="char:EOLhyphen"/>fices of ravenous birds, live unto <hi>Abraham,</hi> he drives and ſcares them away, he hath learned in all eſtates therewith to be contented, and grudges not at any croſſe which maketh him more holy, and teacheth him either more ex<g ref="char:EOLhyphen"/>perience, wiſdome, or patience.</p>
+            <p>He knows that he is a pilgrime upon earth, and like one in a ſtrange Countrey here, and therefore whilſt hee is upon his journey homewards is not much troubled, what his entertainment in ſtrange places ſhall be, or is,
+<pb n="8" facs="tcp:116608:6"/>in which caſe though the dogs barke, and the ſervants frown, yet he cares not ſo long as he reſts aſſured at length to be welcome, unto the maſter of the houſe; In which caſe, though by the way, he be whipt &amp; laſht ſom<g ref="char:EOLhyphen"/>times with the ſcourge of tongues, yet is he contented to beare all, knowing that it were woe with him, if all men ſhould ſpeake well of him, yea that it were but a kinde of infa<g ref="char:EOLhyphen"/>mie to be praiſed of evill doers: Like good <hi>Jehoſophat,</hi> you may have him ſometime for<g ref="char:EOLhyphen"/>get himfelfe to be enticed into ſome <hi>Ahabs</hi> company, but yet even there he is not him<g ref="char:EOLhyphen"/>ſelfe, but checks himſelfe for that adventure, and looks out for ſome further and better di<g ref="char:EOLhyphen"/>rection, to have ſome better warrant for what he is about.</p>
+            <p>His actions are all ſo framed as may fur<g ref="char:EOLhyphen"/>ther his latter end, neither looks he or cares he ſo much what they are, as whether they carry him, in all which he hath a deſigne and plot upon eternitie of heavenly glory, hee admits, loves, and cheriſhes goodneſſe in whomſoever, and amongſt them the moſt excellent, in whom his chiefe delight is. His devotions are conſtant both in ordinary and
+<pb n="9" facs="tcp:116608:6"/>extraordinary, wherein, what he miſſeth at one time, he makes up at another. And as for Gods goodneſſe and manifold favours, and bleſſings upon him at any time confer<g ref="char:EOLhyphen"/>red, they are ſo far from lifting him up that they make him the more thankfull end hum<g ref="char:EOLhyphen"/>ble, the more he ſeeth God in them, acknow<g ref="char:EOLhyphen"/>ledging himſelfe to be leſſe then the leaſt of all his mercies: Hee is moſt cenſorious of himſelfe and leaſt of others, whoſe faults he loves rather to conceale, extenuate &amp; cover, then farther to diſplay: Mercifull, loving, compaſſionate, and kinde he is unto all, but eſpecially unto thoſe, whom Religion, Na<g ref="char:EOLhyphen"/>ture, Kinred or Affinity, moſt ſtrictly hath tyed him unto, and is as well moved to help at the ſight, as at the voice of miſery; ſory that he is not able to relieve and help all.</p>
+            <p>Hee is alſo wonderfull ambitious, but it is how beſt he may come to be partaker of the Divine Nature, to be filled with all diffuſive goodneſſe, whereby to help and overcome all others therein: In all extreams hee keeps the middle way, and lays out for the golden Mean; He is contented that God be his purſ-keeper, who can keep it beſt, lay it out to the
+<pb n="10" facs="tcp:116608:7"/>moſt advantage, and neither ſuffer him either to want or be a bankrout: Hee knows that all Gods works are beautifull in time, and there<g ref="char:EOLhyphen"/>fore he patiently waits for the iſſues of Provi<g ref="char:EOLhyphen"/>dence: Compared with Heaven he underva<g ref="char:EOLhyphen"/>lues all earthly things, and being clothed with this Sun, can tread upon the Moone, and as Oile ſwims above all waters, ſo hath he prin<g ref="char:EOLhyphen"/>ciples in him which make him above, and to conquer all croſſes. In his afflictions, croſſes and ſufferings, hee looks more at the hand of God, than at the malice of men, knowing that if he can but appeaſe the one, giving the Meſſenger his errand; that hee ſhall quickly be rid of the other. In all companies hee ei<g ref="char:EOLhyphen"/>ther does good or takes good; at leaſt labours to leave no ill ſavour by bad example: though juſtification be but once done on Gods part, yet he makes it an every days work to renew the ſame, and engroſſe further aſſurance there<g ref="char:EOLhyphen"/>of. He is thankfull in all things, and in all eſtates, becauſe the worſt eſtate hee can be in out of Hell, is more then his de<g ref="char:EOLhyphen"/>ſerving; to further which temper, hee looks as well at thoſe under him, as at thoſe above him: Hee ſhuns all offences as
+<pb n="11" facs="tcp:116608:7"/>neer as he can, either to give or to take any, and as for Revenge, hee dares not ſo much as think of that, for fear hee intrude into Gods Office: and he makes himſelf all things unto all that hee may winne ſome, knowing that hee lives not here ſo much for himſelf as for others: hee is left amongſt his ſlanderers and perſecutors to keep off wrath from them, whilſt they ſinning as with cart-ropes pull it upon themſelves: he knows no happineſs but in holineſs: and therefore accounts this onely worth the looking after to ſtudy <hi>Maries</hi> part: moſt labouring in ſum-like unto Chriſt to do all things well, and improve his talent unto the moſt advantage: hee is always beſt when he is alone; though then an Hypocrite be at the worſt, and never wants work when hee hath time to examine and call to queſtion himſelf for all his words, ways, and actions; in which courſe every evening hee cleeres his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>core, and makes an even reckoning with the Almighty for all his offences.</p>
+            <p>To conclude, view him well, and we ſhall finde that there is no creature like him, who hath joyes which others cannot intermeddle with: Meat which they ſee not, drink which
+<pb n="12" facs="tcp:116608:8"/>they cannot taſte of: impenitrable armour which they know not, defence and protecti<g ref="char:EOLhyphen"/>on wherein they are naked and wanting: Ap<g ref="char:EOLhyphen"/>parell more coſtly than <hi>Salomons</hi> in all his royaltie, with directions from heaven and earth within him and behind him, for his ſafe paſſage unto glory, Being like the Kings daughter all glorious within, though hee weare his worſt ſide outmoſt: yet he is more excellent then his neighbour, and of all others the moſt overcomming creature, whoſe eyes are ſaid to overcome Chriſt himſelfe: Turne away thine eyes from me, for they overcome me: hee being the onely true modell of the new creature, whoſe heart is ſtill good and the ſame, whatſoever his actions be.</p>
+            <p>A matchleſs perſon ſaved by his God, kept by his power unto ſalvation: held in his hand, who is the ſhield of his helpe, and the ſword of his excellencie. The eternall God being his refuge from above, and beneath claſping him in the everlaſting arms, at whoſe feet Saint-like hee ſits down to receive of his words. Hee hath a heaven in his heart, his thoughts are moſt of heaven: his converſati<g ref="char:EOLhyphen"/>on is in heaven, hee ſits in his head there in
+<pb n="13" facs="tcp:116608:8"/>heavenly places: and had he wings to flie, we ſhould not have him long from thence. And the true cauſe why the world loves him not, Is, becauſe they know him not, and are ſo blind as they cannot diſcerne into his excel<g ref="char:EOLhyphen"/>lencies, they being veiled in this world as Chriſts ſometimes were. But let us lend him but a leaſe of three things, wherein when he fails he is uſually deficient, heavenly wiſdom, knowledge, and diſcretion, to mingle with his zeal, and temper it: being thus qualified he is Heavens Darling, Earths Paragon, the Worlds onely wonder: who whilſt his Gra<g ref="char:EOLhyphen"/>ces are conflicting, wraſtling and ſhining as he mounts Heaven-wards, out of the wilder<g ref="char:EOLhyphen"/>neſſe of this World, is juſtly ſaid to be the wonder of God himſelf. Thus a right Puri<g ref="char:EOLhyphen"/>tan or Round-head is in his moſt noble right temper, or ſhould be qualified: and let my Round-head be thus beautified, and let mee live his life, whatſoever his death be, and I dare venter my Eternity with his.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
